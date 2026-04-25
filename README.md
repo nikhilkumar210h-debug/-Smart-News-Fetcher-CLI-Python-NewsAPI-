@@ -108,7 +108,7 @@ news_results.json
 
 ---
 ## Demo video 
- link - 
+ link - https://drive.google.com/file/d/1O-qLAktlzSQe2zrgqFL9y8cj1GYSsT4O/view?usp=sharing
 
 ## 🤝 Contributing
 
